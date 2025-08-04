@@ -400,7 +400,7 @@ export default function InteriorDesign() {
               <p className="text-muted-foreground mb-4">
                 Send us your requirements
               </p>
-              <a href="mailto:bhavyaenterpriseschd@gmail.com" className="text-tech-600 hover:text-tech-700 font-medium transition-colors duration-200">bhavyaenterpriseschd@gmail.com</a>
+              <a href="mailto:solutions@bhavyaentrprises.com" className="text-tech-600 hover:text-tech-700 font-medium transition-colors duration-200">solutions@bhavyaentrprises.com</a>
               <br />
               <a href="mailto:helpdesk@bhavyaenterprises.com" className="text-tech-600 hover:text-tech-700 font-medium transition-colors duration-200">helpdesk@bhavyaenterprises.com</a>
             </Card>

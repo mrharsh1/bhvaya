@@ -59,7 +59,7 @@ export default function StartProject() {
                     <Mail className="w-6 h-6 text-brand-600" />
                     <div>
                       <h4 className="font-semibold">Email</h4>
-                      <a href="mailto:bhavyaenterpriseschd@gmail.com" className="text-muted-foreground hover:text-brand-600">bhavyaenterpriseschd@gmail.com</a>
+                      <a href="mailto:solutions@bhavyaentrprises.com" className="text-muted-foreground hover:text-brand-600">solutions@bhavyaentrprises.com</a>
                       <br />
                       <a href="mailto:helpdesk@bhavyaentrprises.com" className="text-muted-foreground hover:text-brand-600">helpdesk@bhavyaentrprises.com</a>
                     </div>

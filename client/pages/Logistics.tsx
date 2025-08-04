@@ -278,7 +278,7 @@ export default function Logistics() {
               <p className="text-muted-foreground mb-4">
                 Send us your requirements
               </p>
-              <a href="mailto:bhavyaenterpriseschd@gmail.com" className="text-tech-600 hover:text-tech-700 font-medium">bhavyaenterpriseschd@gmail.com</a>
+              <a href="mailto:solutions@bhavyaentrprises.com" className="text-tech-600 hover:text-tech-700 font-medium">solutions@bhavyaentrprises.com</a>
               <br />
               <a href="mailto:helpdesk@bhavyaenterprises.com" className="text-tech-600 hover:text-tech-700 font-medium">helpdesk@bhavyaenterprises.com</a>
             </Card>
